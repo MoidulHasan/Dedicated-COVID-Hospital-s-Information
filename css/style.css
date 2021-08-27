@@ -1,0 +1,18 @@
+html {
+    background-color: #fff;
+    font-size: 16px;
+    min-width: 300px;
+}
+body{
+    background-color: #fff;
+    font-family: 'Poppins', sans-serif;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.bg-custom{
+    background-color: #6c757d26;
+}
+
+.text-custom-red{
+    color: #FF284F;
+}
